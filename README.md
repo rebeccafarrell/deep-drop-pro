@@ -2,7 +2,7 @@
 
 Championship water for the single-file browser fishing game. Same boat, same hook, far sharper fish.
 
-**Play it:** https://REPLACE_WITH_PAGES_URL
+**Play it:** https://rebeccafarrell.github.io/deep-drop-pro/
 
 Looking for the standard edition? It's at [rebeccafarrell/deep-drop](https://github.com/rebeccafarrell/deep-drop).
 
